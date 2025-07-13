@@ -9,18 +9,18 @@
 
 🔭 I’m currently working on:
 - 🤖 **Huzenix AI Assistant** using Python & Termux
-- ☁️ Personal portfolio built with **Next.js + Tailwind CSS**
-- 📊 Automating Shorts uploader for **Debugged Laughter YouTube**
+- 🌐 Portfolio built with **Next.js + Tailwind CSS**
+- 🎬 Automating Shorts uploader for **Debugged Laughter YouTube**
 
 🌱 I’m currently learning:
-- 🔧 **FastAPI, MongoDB, GitHub Actions**
-- 🎯 Clean Code, Advanced Python Scripting, and CLI tools
+- ⚙️ **FastAPI, MongoDB, GitHub Actions**
+- 🧠 Clean Code, Advanced Python Scripting, and CLI tools
 
-📬 Contact me: **mohdhuzaifa160@gmail.com**
+📬 Contact me: **[mohdhuzaifa160@gmail.com](mailto:mohdhuzaifa160@gmail.com)**
 
-🎥 Fun Fact:
-> I love making people laugh while teaching tech!  
-> Subscribe 👉 [Debugged Laughter](https://youtube.com/@DebuggedLaughter)
+🎥 Fun Fact:  
+I love making people laugh while teaching tech!  
+Subscribe 👉 [Debugged Laughter](https://youtube.com/@DebuggedLaughter)
 
 ---
 
@@ -38,6 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohdHuzaifa160&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdHuzaifa160&layout=compact&theme=radical" width="49%" />
@@ -45,14 +46,35 @@
 
 ---
 
-### 🔗 Let’s Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohd-huzaifa-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:mohdhuzaifa160@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/MohdHuzaifa160"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
-  <a href="https://youtube.com/@DebuggedLaughter"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube" /></a>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohdHuzaifa160&theme=radical&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-⭐ **“Code. Learn. Laugh. Repeat.”** – *Debugged Laughter*
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohd-huzaifa-it/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:mohdhuzaifa160@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MohdHuzaifa160">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://youtube.com/@DebuggedLaughter">
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### ⚡ Inspiration
+> “First, solve the problem. Then, write the code.” – John Johnson  
+> “Code. Learn. Laugh. Repeat.” – *Debugged Laughter*
+
+---
