@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/MohdHuzaifa160/MohdHuzaifa160/blob/main/Banner.png" alt="GitHub Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohd Huzaifa</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎯 Tech Content Creator</h3>
 
