@@ -79,5 +79,13 @@ Subscribe 👉 [Debugged Laughter](https://youtube.com/@DebuggedLaughter)
 ### ⚡ Inspiration
 > “First, solve the problem. Then, write the code.” – John Johnson  
 > “Code. Learn. Laugh. Repeat.” – *Debugged Laughter*
+---
+
+### 🔍 Search Tags (for better discovery)
+
+`Mohd Huzaifa` `Huzaifa GitHub` `Huzaifa Python Developer`  
+`GitHub Mohd Huzaifa` `Huzaifa Voice Assistant` `Creator of Huzenix`  
+`Debugged Laughter` `Full Stack Developer Huzaifa` `Huzaifa Termux Projects`  
+`GitHub India Developer` `AI by Huzaifa` `Python Projects by Mohd Huzaifa`
 
 ---
