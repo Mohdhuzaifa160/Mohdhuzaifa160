@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🎯 Tech Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=Building+Huzenix+AI+Assistant+with+Python+%26+Termux;Exploring+Next.js+%7C+Tailwind+CSS+%7C+FastAPI;Uploading+Programming+Memes+%40+Debugged+Laughter+YT+Channel;Let's+Connect+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&lines=Building+Huzenix+AI+Assistant+with+Python+%26+Termux;Exploring+Next.js+%7C+Tailwind+CSS+%7C+FastAPI;Uploading+Programming+Memes+%40+Debugged+Laughter+YT+Channel;Let's+Connect+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
